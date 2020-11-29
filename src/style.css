@@ -218,3 +218,9 @@ a:hover, button:hover {
     flex: 0 0 33.33%;
   }
 }
+
+
+
+.my-cards {
+  display: flex;
+}
